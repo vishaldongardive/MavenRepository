@@ -9,8 +9,9 @@ public class Meeshow {
 	WebDriver driver=new ChromeDriver();
 	  driver.get("https://www.meesho.com/");
 	  driver.close();
-	  Thread.sleep(3000);
+	  Thread.sleep(3000); 
 
 	}
 
 }
+             
